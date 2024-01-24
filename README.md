@@ -1,5 +1,5 @@
 ## File Handling in C#
-<p>This repository contains some examples of how to handle multiple different types of files in C# (text, binary and memory)</p>
+<p>This repository contains some examples of how to handle multiple different types of data sources in C# (files, binary and memory)</p>
 
 - [x] File Streams
 - [x] Binary Streams
