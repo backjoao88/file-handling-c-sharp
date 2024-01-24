@@ -1,0 +1,14 @@
+C:\Users\Back\RiderProjects\FileHandling\FileHandling.Texts\bin\Debug\net8.0\FileHandling.Texts.exe
+C:\Users\Back\RiderProjects\FileHandling\FileHandling.Texts\bin\Debug\net8.0\FileHandling.Texts.deps.json
+C:\Users\Back\RiderProjects\FileHandling\FileHandling.Texts\bin\Debug\net8.0\FileHandling.Texts.runtimeconfig.json
+C:\Users\Back\RiderProjects\FileHandling\FileHandling.Texts\bin\Debug\net8.0\FileHandling.Texts.dll
+C:\Users\Back\RiderProjects\FileHandling\FileHandling.Texts\bin\Debug\net8.0\FileHandling.Texts.pdb
+C:\Users\Back\RiderProjects\FileHandling\FileHandling.Texts\obj\Debug\net8.0\FileHandling.Texts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Back\RiderProjects\FileHandling\FileHandling.Texts\obj\Debug\net8.0\FileHandling.Texts.AssemblyInfoInputs.cache
+C:\Users\Back\RiderProjects\FileHandling\FileHandling.Texts\obj\Debug\net8.0\FileHandling.Texts.AssemblyInfo.cs
+C:\Users\Back\RiderProjects\FileHandling\FileHandling.Texts\obj\Debug\net8.0\FileHandling.Texts.csproj.CoreCompileInputs.cache
+C:\Users\Back\RiderProjects\FileHandling\FileHandling.Texts\obj\Debug\net8.0\FileHandling.Texts.dll
+C:\Users\Back\RiderProjects\FileHandling\FileHandling.Texts\obj\Debug\net8.0\refint\FileHandling.Texts.dll
+C:\Users\Back\RiderProjects\FileHandling\FileHandling.Texts\obj\Debug\net8.0\FileHandling.Texts.pdb
+C:\Users\Back\RiderProjects\FileHandling\FileHandling.Texts\obj\Debug\net8.0\FileHandling.Texts.genruntimeconfig.cache
+C:\Users\Back\RiderProjects\FileHandling\FileHandling.Texts\obj\Debug\net8.0\ref\FileHandling.Texts.dll
