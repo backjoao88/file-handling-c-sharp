@@ -1,4 +1,4 @@
-﻿namespace FileHandling.Texts.BinaryStreamTests;
+﻿namespace FileHandling.Streams.BinaryStreamTests;
 
 public class BinaryFileStreamHandler
 {

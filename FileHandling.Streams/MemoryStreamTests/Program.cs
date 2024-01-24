@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace FileHandling.Texts.MemoryStreamTests;
+namespace FileHandling.Streams.MemoryStreamTests;
 
 public class Program
 {

@@ -1,5 +1,4 @@
-﻿namespace FileHandling.Texts.BinaryStreamTests;
-
+﻿namespace FileHandling.Streams.BinaryStreamTests;
 public class Program
 {
     public static void BinaryStreamTests()

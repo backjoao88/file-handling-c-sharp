@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Back\\RiderProjects\\FileHandling\\FileHandling.Texts\\FileHandling.Texts.csproj",
-      "projectName": "FileHandling.Texts",
-      "projectPath": "C:\\Users\\Back\\RiderProjects\\FileHandling\\FileHandling.Texts\\FileHandling.Texts.csproj",
+      "projectUniqueName": "C:\\Users\\Back\\RiderProjects\\FileHandling\\FileHandling.Streams\\FileHandling.Streams.csproj",
+      "projectName": "FileHandling.Streams",
+      "projectPath": "C:\\Users\\Back\\RiderProjects\\FileHandling\\FileHandling.Streams\\FileHandling.Streams.csproj",
       "packagesPath": "C:\\Users\\Back\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Back\\RiderProjects\\FileHandling\\FileHandling.Texts\\obj\\",
+      "outputPath": "C:\\Users\\Back\\RiderProjects\\FileHandling\\FileHandling.Streams\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Back\\AppData\\Roaming\\NuGet\\NuGet.Config"
