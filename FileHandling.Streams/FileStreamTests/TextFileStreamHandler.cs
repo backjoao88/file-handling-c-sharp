@@ -29,7 +29,7 @@ public class TextFileStreamHandler
         byte[] buffer = new byte[_stream.Length];
         // Using the same stream, we need to set Position = 0.
         // Because in writting we had moved the file bytes pointer forward.
-        // So, to read correctly all lines, need to be set to 0.
+        // So, to correctly read all lines, need to be set to 0.
         Console.WriteLine(_stream.Position);
         var _ = await _stream.ReadAsync(buffer, 0, (int)_stream.Length);
         string content = Encoding.UTF8.GetString(buffer);
